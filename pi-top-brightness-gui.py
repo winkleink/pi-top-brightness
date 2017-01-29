@@ -9,7 +9,7 @@
 # while there it's worth installing the shutdown code too
 # as it will shutdown the pi-top hub when you shutdown Jessie
 
-# as of the latest Jessir guizero is pre-installed so no other
+# as of the latest Jessie guizero is pre-installed so no other
 # software should need to be installed.
 # if guizero is not installed then follow these instruction
 # https://lawsie.github.io/guizero/
