@@ -20,9 +20,6 @@
 from guizero import *
 from subprocess import call
 
-def do_nothing():
-    print("Nothing happened")
-    
 def brighter():
     call(["brightness", "increase"])
 
